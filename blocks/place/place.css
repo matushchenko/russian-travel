@@ -18,7 +18,6 @@
   .place {
     max-width: 928px;
     max-height: 640px;
-    row-gap: 48px;
     column-gap: 32px;
   }
 }
@@ -27,7 +26,6 @@
   .place {
     max-width: 720px;
     max-height: 581px;
-    row-gap: 48px;
     column-gap: 28px;
   }
 }

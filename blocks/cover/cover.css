@@ -5,12 +5,12 @@
   height: 100vh;
   box-sizing: border-box;
   padding: 92px 48px;
-  position: relative;
   display: flex;
   flex-direction: column;
   gap: 32px;
   align-items: center;
   justify-content: center;
+  position: relative;
 }
 
 @media all and (max-width: 1279px) {
@@ -34,3 +34,4 @@
     max-height: 330px;
   }
 }
+
